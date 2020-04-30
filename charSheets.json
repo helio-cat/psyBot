@@ -1,0 +1,67 @@
+{
+    "players": [
+        {
+            "name": "Blake Bukhovsky",
+            "id": 1,
+            "skills": {
+                "str": 65,
+                "con": 40,
+                "dex": 45,
+                "cha": 40,
+                "wil": 70,
+                "int": 50,
+                "size": 50,
+                "accounting": 0,
+                "alertness": 0,
+                "animalhandling": 0,
+                "artillery": 0,
+                "athletics": 65,
+                "bureaucracy": 0,
+                "computeruse": 45,
+                "criminology": 0,
+                "demolitions": 0,
+                "disguise": 50,
+                "dodge": 50,
+                "drive": 0,
+                "pistol": 0,
+                "long": 0,
+                "firstaid": 0,
+                "grapple": 65,
+                "heavymachinery": 0,
+                "heavyweapons": 45,
+                "humint": 0,
+                "language": 0,
+                "locksmith": 50,
+                "medicine": 50,
+                "meleeweapon": 0,
+                "navigate": 0,
+                "persuade": 0,
+                "pilot": 0,
+                "psychotherapy": 65,
+                "electrical": 0,
+                "mechanical": 45,
+                "research": 0,
+                "search": 0,
+                "sigint": 50,
+                "stealth": 50,
+                "survival": 0,
+                "track": 0,
+                "unnatural": 0,
+                "unarmed": 0,
+                "misc": 0
+
+            }
+            
+        },
+        {
+            "name": "StickyShaman",
+            "id": 2,
+            "skills": {
+                "str": 50,
+                "int": 50,
+                "dex": 70
+            }
+            
+        }
+    ]
+}
